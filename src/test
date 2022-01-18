@@ -1,0 +1,17 @@
+Hello Damodar
+
+1) what did you work on?
+  I started my day joining the daily meet.
+  All the last week I was training with Ag-Grid and today I started a new course in Udemy Master Angular 13: The Complete Course By Maximillian Schwarzmuller
+
+2) What you learned?
+  * Understanding databinding
+
+    * Two way binding: For two-way-binding you need  to enable the ngModel directive. This is done by adding the FormsModule to the imports[] array in the AppModule.
+      You also need to add the import from @angular/forms in the app.modules file.
+
+      Using [(ngModel)] it will trigger on the event and update the value in our component automatically. On the other hand, since it is two-way-binding, it will also update the value of the input element if I change the value in you component
+
+3) What will you do tomorrow?
+  Today I just finish the section 1 and continue working with the section 2 in this section you  will have a review of all the basic of Angular.
+  So Tomorrow I will continue working on it, I think tomorrow I will finish the section 2 and continue with the next one
